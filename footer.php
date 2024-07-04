@@ -1,8 +1,10 @@
+            </div>
+        </div>
     </div>
 
-    <!-- Container que abrigará o rodapé da página--> 
-    <div class="container-fluid text-center bg-dark text-light fixed-bottom"> 
-        <p>Sistema Web desenvolvido por Aninha</p>
+    <!-- Rodapé do Sistema -->
+    <div class="mt-5 bg-dark text-white text-center fixed-bottom">
+        <p>Genérico - Sistema Web de Vendas</p>
     </div>
 
 </body>
